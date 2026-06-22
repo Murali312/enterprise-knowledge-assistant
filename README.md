@@ -27,7 +27,7 @@ It demonstrates a complete **end-to-end Agentic AI architecture** with retrieval
 
 ## 📌 Architecture
 
-![alt text](EnterpriseAsistantImage-1.png)
+![Architecture_Diagram](docs/screenshots/EnterpriseAsistantArchitecture.png)
 
 ---
 
