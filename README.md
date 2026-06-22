@@ -72,6 +72,11 @@ It demonstrates a complete **end-to-end Agentic AI architecture** with retrieval
 
 ## 🤖 CrewAI Design
 
+## 📌 Agents Workflow
+
+![Agent Workflow](docs/AgentWorkflow.png)
+
+
 ### 👥 Agents
 
 #### 1. Research Agent
