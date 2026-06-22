@@ -1,0 +1,14 @@
+crewai==0.30.11
+
+langchain==0.1.20
+langchain-community==0.0.38
+langchain-openai==0.1.7
+
+chromadb==0.5.0
+openai>=1.0.0
+ragas==0.1.10
+
+pandas
+python-dotenv
+tiktoken
+datasets

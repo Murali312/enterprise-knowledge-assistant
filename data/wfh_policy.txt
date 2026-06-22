@@ -1,0 +1,34 @@
+========================================================================
+GLOBAL MNC INC. - WORK FROM HOME (WFH) & HYBRID WORK POLICY
+========================================================================
+
+1. OBJECTIVE
+This policy defines the structural guidelines, operational expectations, and reimbursement structures for employees working remotely or operating under a hybrid workplace model.
+
+2. WORKPLACE MODELS
+
+2.1 Hybrid Model (Standard Operating Procedure)
+- All technical and non-technical staff members are required to work from their designated base office location for a minimum of 3 days per week (typically Tuesday, Wednesday, and Thursday).
+- Mondays and Fridays are designated as flexible remote working days, subject to project deliverables and client requirements.
+
+2.2 Full Remote / Work From Home (WFH)
+- Full WFH status is granted only under exceptional medical or operational circumstances and requires written sign-off from the Department Head (VP level) and the HR Business Partner (HRBP).
+- Employees operating on approved full WFH are required to maintain core working hours (10:00 AM to 4:00 PM local time) for synchronous team collaboration.
+
+3. INFORMATION TECHNOLOGY & SECURITY PROTOCOLS
+
+3.1 Device & Network Compliance
+- Production Code Deployment: Under no circumstances shall personal computing devices, laptops, or tablets be used to deploy code to production environments or access client environments. All development work must occur on company-issued assets.
+- VPN Mandate: Access to corporate networks, internal repositories, and code bases from public or unsecured Wi-Fi networks is strictly prohibited. Employees must connect via the official corporate Virtual Private Network (VPN) with multi-factor authentication (MFA) enabled.
+
+4. EXPENSE ALLOWANCES & ALLOWED STIPENDS
+
+4.1 One-time Remote Setup Allowance
+- Active Software Engineers and Senior Developers are eligible for a one-time remote workspace setup reimbursement of up to $500 (or equivalent regional currency). 
+- Eligible items for reimbursement include ergonomic office chairs, external monitors, keyboards, mice, and UPS backup units. Receipts must be submitted via the expense portal within 60 days of purchase.
+
+4.2 Monthly Internet & Communication Stipend
+- All employees working in hybrid or full remote modes are eligible for a monthly internet connectivity stipend of $30 to ensure high-speed broadband availability (minimum required speed: 50 Mbps).
+
+5. DATA PRIVACY & CONFIDENTIALITY
+Employees must ensure that company-related audio/video calls are conducted in private spaces where screen contents and conversations remain confidential and protected from non-employees.
